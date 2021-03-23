@@ -1,3 +1,11 @@
 h1 {
   color:yellowgreen
 }
+.darkmode {
+  background-color: black;
+  color: white;
+}
+#lightswitch {
+  color: white;
+  background-color: gray;
+}
